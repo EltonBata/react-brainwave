@@ -7,7 +7,7 @@
   <h3 align="center">Brainwave WebSite</h3>
 
   <p align="center">
-   This project is about a fully Responsive Website with modern UI/UX using ReactJS and Tailwind
+   This project is about a fully Responsive Website with modern UI/UX 
     <br/>
     <br/>
   </p>
@@ -17,7 +17,7 @@
 
 ## About The Project
 
-In this project I will be building a small Job-Management with ReactJS and TailwindCSS
+I am currently learning ReactJS. In this project I will be building a Website using ReactJS and Tailwind in order to improve my skills
 
 ## Built With
 
